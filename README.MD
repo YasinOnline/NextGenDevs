@@ -1,1 +1,1 @@
-# NextGenDevs Projects
+# NextJsDev Projects
